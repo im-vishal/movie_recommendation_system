@@ -14,3 +14,5 @@ I've used stemming method to get the root words.
 
 If you've any questions related to Heroku deployment, you can check the Heroku documentation page.
 
+Heroku App link: - https://movie-recommender-system-vkp.herokuapp.com/
+
